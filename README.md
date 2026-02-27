@@ -1,4 +1,4 @@
-# MERN AMAZONA
+# LPU CLOTHING
 
 ![amazona](/frontend/public/images/amazona.jpg)
 
